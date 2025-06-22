@@ -1,4 +1,4 @@
----
+ipfs add myfile.txt---
 id: buildIntegrationContentStorageDelivery
 title: File Storage
 sidebar_label: File Storage
